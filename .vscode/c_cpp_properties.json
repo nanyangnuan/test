@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/nan/unitree/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/nan/unitree/src/unitree_ros/unitree_controller/include/**",
+        "/home/nan/unitree/src/unitree_guide/unitree_guide/include/**",
+        "/home/nan/unitree/src/unitree_ros/unitree_legged_control/include/**",
+        "/home/nan/unitree/src/unitree_guide/unitree_actuator_sdk/unitree_motor_ctrl/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
